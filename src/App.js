@@ -47,7 +47,7 @@ class App extends Component {
       <div>
         <Jumbotron />
         <Grid>
-          <Header score={this.state.score}>Click each image only once!</Header>
+          <Header score={this.state.score}>Click the same image only once!</Header>
           {this.state.characters.map(card => (
             <Card
               clickTotal={this.clickTotal}
