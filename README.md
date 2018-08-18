@@ -14,4 +14,4 @@ This REACT application uses the following yarn packages:
 
 #### Application Image
 
-![Screenshot](https://drive.google.com/open?id=1PAlkbZWGl5W6f9w4Zr6HVqTFphFoQ7fh)
+![Screenshot](https://github.com/r-ruiz/react-clicky-game/blob/master/public/stnggame.JPG)
