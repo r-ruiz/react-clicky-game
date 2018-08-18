@@ -1,0 +1,15 @@
+.card {
+  border-radius: 3px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+  box-shadow: 0 3px 6px rgb(54, 3, 119), 0 3px 6px rgb(160, 2, 2);
+}
+
+.card > .img-box {
+  height: 100%;
+}
+.card > .img-box > img {
+  width: 100%
+}
+

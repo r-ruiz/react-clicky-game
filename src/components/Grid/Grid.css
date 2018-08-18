@@ -1,0 +1,15 @@
+.grid {
+  padding-top: 50px;
+  background: lightgray;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+.container {
+  box-shadow: 0 3px 6px rgb(54, 3, 119), 0 3px 6px rgb(160, 2, 2);
+}
